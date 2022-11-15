@@ -1,5 +1,7 @@
 <img src="https://github.com/ianbattersby/ianbattersby/blob/main/GHHeader.png" alt="Architect, Programmer, and Hacker. Cloud Native. Zero Trust. Penchant for Rust and neovim." />
 
+#### Mastodon: <a href="https:&#x2F;&#x2F;hachyderm.io&#x2F;@Ianbattersby" target="_blank" rel="me">https://hachyderm.io/web/@Ianbattersby</a>
+
 <!--
 **ianbattersby/ianbattersby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
