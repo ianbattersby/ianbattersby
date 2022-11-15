@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/ianbattersby/ianbattersby/blob/master/GHHeader.png" alt="Architect, Programmer, and Hacker. Cloud Native. Zero Trust. Penchant for Rust and neovim." />
 
 <!--
 **ianbattersby/ianbattersby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
